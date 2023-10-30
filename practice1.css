@@ -1,0 +1,41 @@
+
+
+body {
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #6495ED;
+	color: #F0FFFF;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+img {
+	max-width: 25%;
+	max-height: 25%;
+}
+
+
+button {
+    border-color: #FFF8DC;
+    border-width: 1rem;
+    background-color: #FFF8DC;
+	font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+	margin-top: 5rem;
+	margin-bottom:2rem;
+}
+
+h1 {
+	color: #00008B
+}
+
+a {
+	color: #FFF8DC
+}
+
+h4 {
+	color: #FFF8DC
+}
